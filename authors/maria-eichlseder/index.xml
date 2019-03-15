@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria Eichlseder</title>
+    <link>https://meichlseder.github.io/authors/maria-eichlseder/</link>
+    <description>Recent content on Maria Eichlseder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://meichlseder.github.io/authors/maria-eichlseder/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Algebraic Cryptanalysis of Frit</title>
+      <link>https://meichlseder.github.io/publication/iacr-dobraunig-ems-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/iacr-dobraunig-ems-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering Related-Tweak Characteristics</title>
+      <link>https://meichlseder.github.io/talk/talkdagstuhl-eichlseder-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/talk/talkdagstuhl-eichlseder-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering Related-Tweak Characteristics: Application to MANTIS-6</title>
+      <link>https://meichlseder.github.io/publication/tosc-eichlseder-k-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/tosc-eichlseder-k-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptanalysis of MORUS</title>
+      <link>https://meichlseder.github.io/publication/asiacrypt-ashur-ellmrsv-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/asiacrypt-ashur-ellmrsv-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Differential Analysis of Symmetric Primitives</title>
+      <link>https://meichlseder.github.io/talk/birmingham-eichlseder-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/talk/birmingham-eichlseder-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential Cryptanalysis</title>
+      <link>https://meichlseder.github.io/talk/cryptacus-eichlseder-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/talk/cryptacus-eichlseder-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential Cryptanalysis of MANTIS-6</title>
+      <link>https://meichlseder.github.io/talk/erc-eichlseder-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/talk/erc-eichlseder-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential properties of a lightweight tweakable block cipher: Two shades of differential cryptanalysis</title>
+      <link>https://meichlseder.github.io/talk/nijmegen-eichlseder-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/talk/nijmegen-eichlseder-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post-Quantum Security and Privacy for Future Applications</title>
+      <link>https://meichlseder.github.io/talk/knowcenter-eichlseder-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/talk/knowcenter-eichlseder-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rasta: A Cipher with Low ANDdepth and Few ANDs per Bit</title>
+      <link>https://meichlseder.github.io/publication/crypto-dobraunig-e-0-lllm-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/crypto-dobraunig-e-0-lllm-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIFA: Exploiting Ineffective Fault Inductions on Symmetric Cryptography</title>
+      <link>https://meichlseder.github.io/publication/tches-dobraunig-ekmmp-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/tches-dobraunig-ekmmp-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Ineffective Fault Attacks on Masked AES with Fault Countermeasures</title>
+      <link>https://meichlseder.github.io/publication/asiacrypt-dobraunig-egmmp-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/asiacrypt-dobraunig-egmmp-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISAP -- Towards Side-Channel Secure Authenticated Encryption</title>
+      <link>https://meichlseder.github.io/publication/tosc-dobraunig-emmu-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/tosc-dobraunig-emmu-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lightweight Cryptanalysis: Practical Key Recovery Attack on MANTIS-5</title>
+      <link>https://meichlseder.github.io/talk/talkesc-eichlseder-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/talk/talkesc-eichlseder-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Note on the Robustness of CAESAR Candidates</title>
+      <link>https://meichlseder.github.io/publication/iacr-kales-em-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/iacr-kales-em-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Key-Recovery Attack on MANTIS5</title>
+      <link>https://meichlseder.github.io/publication/tosc-dobraunig-ekm-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/tosc-dobraunig-ekm-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Key-Recovery Attack on MANTIS5</title>
+      <link>https://meichlseder.github.io/talk/talkfse-eichlseder-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/talk/talkfse-eichlseder-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPHINCS&#43;</title>
+      <link>https://meichlseder.github.io/publication/pqcrypto-bernstein-defghkkllmnrrs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/pqcrypto-bernstein-defghkkllmnrrs-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Side-Channel Analysis of Keymill</title>
+      <link>https://meichlseder.github.io/publication/cosade-dobraunig-ekm-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/cosade-dobraunig-ekm-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of the Kupyna-256 Hash Function</title>
+      <link>https://meichlseder.github.io/publication/fse-dobraunig-em-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/fse-dobraunig-em-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of the Kupyna-256 Hash Function</title>
+      <link>https://meichlseder.github.io/talk/talkfse-eichlseder-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/talk/talkfse-eichlseder-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ascon v1.2</title>
+      <link>https://meichlseder.github.io/publication/caesar-dobraunig-ems-14/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/caesar-dobraunig-ems-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptanalysis of Simpira v1</title>
+      <link>https://meichlseder.github.io/publication/sacrypt-dobraunig-em-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/sacrypt-dobraunig-em-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptanalysis of Simpira v1</title>
+      <link>https://meichlseder.github.io/talk/talksac-eichlseder-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/talk/talksac-eichlseder-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling Ascon: Computer-Aided Design of Building Blocks</title>
+      <link>https://meichlseder.github.io/talk/talkmitm-eichlseder-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/talk/talkmitm-eichlseder-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Square Attack on 7-Round Kiasu-BC</title>
+      <link>https://meichlseder.github.io/publication/acns-dobraunig-em-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/acns-dobraunig-em-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Fault Attacks on Nonce-Based Authenticated Encryption Schemes</title>
+      <link>https://meichlseder.github.io/publication/asiacrypt-dobraunig-eklm-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/asiacrypt-dobraunig-eklm-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of SHA-512/224 and SHA-512/256</title>
+      <link>https://meichlseder.github.io/publication/asiacrypt-dobraunig-em-15-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/asiacrypt-dobraunig-em-15-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of SHA-512/224 and SHA-512/256</title>
+      <link>https://meichlseder.github.io/talk/talkasiacrypt-eichlseder-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/talk/talkasiacrypt-eichlseder-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptanalysis of Ascon</title>
+      <link>https://meichlseder.github.io/publication/ctrsa-dobraunig-ems-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/ctrsa-dobraunig-ems-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forgery Attacks on Round-Reduced ICEPOLE-128</title>
+      <link>https://meichlseder.github.io/publication/sacrypt-dobraunig-em-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/sacrypt-dobraunig-em-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heuristic Tool for Linear Cryptanalysis with Applications to CAESAR Candidates</title>
+      <link>https://meichlseder.github.io/publication/asiacrypt-dobraunig-em-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/asiacrypt-dobraunig-em-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Higher-Order Cryptanalysis of LowMC</title>
+      <link>https://meichlseder.github.io/publication/icisc-dobraunig-em-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/icisc-dobraunig-em-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Related-Key Forgeries for Prøst-OTR</title>
+      <link>https://meichlseder.github.io/publication/fse-dobraunig-em-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/fse-dobraunig-em-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Related-Key Forgeries for Prøst-OTR</title>
+      <link>https://meichlseder.github.io/talk/talkfse-eichlseder-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/talk/talkfse-eichlseder-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Evaluation of SHA-224, SHA-512/224, and SHA-512/256</title>
+      <link>https://meichlseder.github.io/publication/cryptrec-dobraunig-em-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/cryptrec-dobraunig-em-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Branching Heuristics in Differential Collision Search with Applications to SHA-512</title>
+      <link>https://meichlseder.github.io/publication/fse-eichlseder-ms-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/fse-eichlseder-ms-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Branching Heuristics in Differential Collision Search: Application to SHA-512</title>
+      <link>https://meichlseder.github.io/talk/talkfse-eichlseder-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/talk/talkfse-eichlseder-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key Recovery Attacks on Recent Authenticated Ciphers</title>
+      <link>https://meichlseder.github.io/publication/latincrypt-bogdanov-delmst-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/latincrypt-bogdanov-delmst-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malicious Hashing: Eve&#39;s Variant of SHA-1</title>
+      <link>https://meichlseder.github.io/publication/sacrypt-albertini-aems-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/sacrypt-albertini-aems-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Security of Fresh Re-keying to Counteract Side-Channel and Fault Attacks</title>
+      <link>https://meichlseder.github.io/publication/cardis-dobraunig-emm-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/cardis-dobraunig-emm-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Propagation in Efficient Guess-and-Determine Attacks</title>
+      <link>https://meichlseder.github.io/talk/talkwcc-eichlseder-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/talk/talkwcc-eichlseder-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Propagation in Efficient Guess-and-De­ter­mine Attacks</title>
+      <link>https://meichlseder.github.io/publication/wcc-eichlseder-mnrs-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/wcc-eichlseder-mnrs-13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

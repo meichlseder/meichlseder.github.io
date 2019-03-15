@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Schläffer on Maria Eichlseder</title>
+    <link>https://meichlseder.github.io/authors/martin-schl%C3%A4ffer/</link>
+    <description>Recent content in Martin Schläffer on Maria Eichlseder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://meichlseder.github.io/authors/martin-schl%C3%A4ffer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ascon v1.2</title>
+      <link>https://meichlseder.github.io/publication/caesar-dobraunig-ems-14/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/caesar-dobraunig-ems-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptanalysis of Ascon</title>
+      <link>https://meichlseder.github.io/publication/ctrsa-dobraunig-ems-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/ctrsa-dobraunig-ems-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Branching Heuristics in Differential Collision Search with Applications to SHA-512</title>
+      <link>https://meichlseder.github.io/publication/fse-eichlseder-ms-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/fse-eichlseder-ms-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key Recovery Attacks on Recent Authenticated Ciphers</title>
+      <link>https://meichlseder.github.io/publication/latincrypt-bogdanov-delmst-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/latincrypt-bogdanov-delmst-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malicious Hashing: Eve&#39;s Variant of SHA-1</title>
+      <link>https://meichlseder.github.io/publication/sacrypt-albertini-aems-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/sacrypt-albertini-aems-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Propagation in Efficient Guess-and-De­ter­mine Attacks</title>
+      <link>https://meichlseder.github.io/publication/wcc-eichlseder-mnrs-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/wcc-eichlseder-mnrs-13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

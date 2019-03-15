@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Maria Eichlseder</title>
+    <link>https://meichlseder.github.io/authors/admin/</link>
+    <description>Recent content in admin on Maria Eichlseder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Mar 2019 22:55:19 +0100</lastBuildDate>
+    
+	<atom:link href="https://meichlseder.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://meichlseder.github.io/author/admin/</link>
+      <pubDate>Thu, 14 Mar 2019 22:55:19 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/author/admin/</guid>
+      <description>I am a postdoctoral researcher in the Cryptography group at IAIK, Graz University of Technology. My research interests include the design and cryptanalysis of symmetric cryptographic algorithms, in particular hash functions and authenticated encryption algorithms and their underlying primitives.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Kales on Maria Eichlseder</title>
+    <link>https://meichlseder.github.io/authors/daniel-kales/</link>
+    <description>Recent content in Daniel Kales on Maria Eichlseder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://meichlseder.github.io/authors/daniel-kales/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clustering Related-Tweak Characteristics: Application to MANTIS-6</title>
+      <link>https://meichlseder.github.io/publication/tosc-eichlseder-k-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/tosc-eichlseder-k-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Note on the Robustness of CAESAR Candidates</title>
+      <link>https://meichlseder.github.io/publication/iacr-kales-em-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/iacr-kales-em-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Key-Recovery Attack on MANTIS5</title>
+      <link>https://meichlseder.github.io/publication/tosc-dobraunig-ekm-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/tosc-dobraunig-ekm-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

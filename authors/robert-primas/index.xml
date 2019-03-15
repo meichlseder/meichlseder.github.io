@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Primas on Maria Eichlseder</title>
+    <link>https://meichlseder.github.io/authors/robert-primas/</link>
+    <description>Recent content in Robert Primas on Maria Eichlseder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://meichlseder.github.io/authors/robert-primas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SIFA: Exploiting Ineffective Fault Inductions on Symmetric Cryptography</title>
+      <link>https://meichlseder.github.io/publication/tches-dobraunig-ekmmp-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/tches-dobraunig-ekmmp-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Ineffective Fault Attacks on Masked AES with Fault Countermeasures</title>
+      <link>https://meichlseder.github.io/publication/asiacrypt-dobraunig-egmmp-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/asiacrypt-dobraunig-egmmp-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

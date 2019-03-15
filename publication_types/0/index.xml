@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 on Maria Eichlseder</title>
+    <link>https://meichlseder.github.io/publication_types/0/</link>
+    <description>Recent content in 0 on Maria Eichlseder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://meichlseder.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Algebraic Cryptanalysis of Frit</title>
+      <link>https://meichlseder.github.io/publication/iacr-dobraunig-ems-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/iacr-dobraunig-ems-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Note on the Robustness of CAESAR Candidates</title>
+      <link>https://meichlseder.github.io/publication/iacr-kales-em-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/iacr-kales-em-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPHINCS&#43;</title>
+      <link>https://meichlseder.github.io/publication/pqcrypto-bernstein-defghkkllmnrrs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/pqcrypto-bernstein-defghkkllmnrrs-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ascon v1.2</title>
+      <link>https://meichlseder.github.io/publication/caesar-dobraunig-ems-14/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/caesar-dobraunig-ems-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Evaluation of SHA-224, SHA-512/224, and SHA-512/256</title>
+      <link>https://meichlseder.github.io/publication/cryptrec-dobraunig-em-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/cryptrec-dobraunig-em-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

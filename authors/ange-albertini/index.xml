@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ange Albertini on Maria Eichlseder</title>
+    <link>https://meichlseder.github.io/authors/ange-albertini/</link>
+    <description>Recent content in Ange Albertini on Maria Eichlseder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://meichlseder.github.io/authors/ange-albertini/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Malicious Hashing: Eve&#39;s Variant of SHA-1</title>
+      <link>https://meichlseder.github.io/publication/sacrypt-albertini-aems-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://meichlseder.github.io/publication/sacrypt-albertini-aems-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
